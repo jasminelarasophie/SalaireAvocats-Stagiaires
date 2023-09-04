@@ -18,7 +18,7 @@ Visualisation
 
 La visualisation des données est présentée sous forme de carte géographique interactive. 
 
-![Texte alternatif](https://github.com/jasminelarasophie/SalaireAvocats-Stagiaires/commits/main/SalaireAvocats-Stagiaires/Screenshot.png)
+![Texte alternatif](view-source:https://github.com/jasminelarasophie/SalaireAvocats-Stagiaires/blob/main/SalaireAvocats-Stagiaires/Screenshot.png)
 
 
 
