@@ -18,7 +18,7 @@ Visualisation
 
 La visualisation des données est présentée sous forme de carte géographique interactive. 
 
-![Image carte Suisse](https://github.com/jasminelarasophie/SalaireAvocats-Stagiaires/blob/main/SalaireAvocats-Stagiaires/Screenshot.png?raw=true)
+![Image carte Suisse](https://raw.githubusercontent.com/jasminelarasophie/SalaireAvocats-Stagiaires/main/SalaireAvocats-Stagiaires/Screenshot.png)
 
 
 
