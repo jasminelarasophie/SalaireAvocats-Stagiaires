@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(7, 19, 50);
+    color: rgb(255, 252, 252);
+    overflow-y: hidden;
+    overflow-x: hidden;
+    text-align: center;
+     
+}
+
+.map-container {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.map-object {
+    width: 450px;
+    height: 450px;
+    margin-right: 100px;
+}
+
+.map-object2 {
+    width: 450px;
+    height: 450px;
+}
+
+.info-container {
+    text-align: center;
+    font-size: 1.3rem;
+    color: white;
+}
+
+p {
+    margin-bottom: 20px;
+    color:  #F7DE3A;
+}
+
+h1 {
+    margin-bottom: 10px;
+    color: #ffffff;
+    font-family: "Playfair Display", serif;
+    font-weight: medium;
+    font-style: italic;
+}

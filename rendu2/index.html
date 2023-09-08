@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Carte des salaires des avocats-stagiaires en Suisse</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <div class="header">
+        <h1>Carte des salaires des avocats-stagiaires en Suisse</h1>
+        <p>Survolez un canton sur la carte de gauche pour afficher son salaire moyen. La carte de droite vous permet d'afficher le salaire minimal en vigeur </p>
+    </div>
+    <div class="container">
+        <div class="map-container">
+            <object data="ch.svg" type="image/svg+xml" class="map-object"></object>
+            <object data="ch2.svg" type="image/svg+xml" class="map-object2"></object>
+        </div>
+        <div id="info" class="info-container">
+            <div id="canton-name"></div>
+            <div id="canton-salary"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+
+</html>
+
